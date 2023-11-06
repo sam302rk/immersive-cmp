@@ -1,0 +1,13 @@
+name = "Voxel Trains IR"
+filename = "Voxel Trains 4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ec2ade40d4d3dd24fd65fd4b818584faf76482e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3571008
+project-id = 355303

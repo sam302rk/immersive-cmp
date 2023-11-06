@@ -13,6 +13,10 @@ file = "config/landofsignals/ks_signalpack.zip"
 hash = "945f6bf3f95c7572c2349cbb8adab4d5401b37bdd0e5bd0b66be7238d844ca00"
 
 [[files]]
+file = "mods/LandOfSignals-1.12.2-forge-1.1.0.jar"
+hash = "240f4e375de0c7c7a21bdf6e56c3d4303d43d2300b2d0ac48d70b8b7f697c6a7"
+
+[[files]]
 file = "mods/OptiFine_1.12.2_HD_U_G5_MOD.jar"
 hash = "717351d0b1eb8f5d1a8453809a5e853566634eb9aeefa852cc68239c1d2bac4b"
 
@@ -24,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-railroading.pw.toml"
 hash = "8142b434d15baa49253cf4ca09ee26bee07ac0bce52ae4211979bb1f06257590"
-metafile = true
-
-[[files]]
-file = "mods/landofsignals.pw.toml"
-hash = "db7152fa0ee1152cdc83f7bfb423a7b4a65819cf290f1ed2be838554926fc88c"
 metafile = true
 
 [[files]]
@@ -44,4 +43,9 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "d10c418f02190951aa9909a46005af48ab9aa214ed356337c432fd6f3cd3b1ab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/voxel-trains-ir.pw.toml"
+hash = "368b30d7b1961b9912154b73a45fbcd7000c8eed9186e5e239b1ca3b85b521bb"
 metafile = true
