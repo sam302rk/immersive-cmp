@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/immersiverailroading.cfg"
-hash = "c7993f743303f7ceef303c01d41d5c66d3d73ce5c60e567783d17408294a7558"
+hash = "3872ef0a8c161db59b7c262189083a9cc6c06f683daebd777c4442e849013960"
 
 [[files]]
 file = "config/landofsignals.cfg"
-hash = "50f6c28a089a798a3cd7c790f9f71c89fbb64b793c4b807b86334416920b3cfb"
+hash = "76304d5b92ece295c8e383f5d55933bc32c938b304e0d00314fa79aee4384802"
 
 [[files]]
 file = "config/landofsignals/diekleinensignale.zip"
@@ -39,11 +39,6 @@ hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
 metafile = true
 
 [[files]]
-file = "mods/decocraft.pw.toml"
-hash = "9bfe94e3bfc1a392eca371400b4dc82cd24d5bd9c05fa137116690b3e3c1a639"
-metafile = true
-
-[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
@@ -51,11 +46,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-railroading.pw.toml"
 hash = "8142b434d15baa49253cf4ca09ee26bee07ac0bce52ae4211979bb1f06257590"
-metafile = true
-
-[[files]]
-file = "mods/ptrlib.pw.toml"
-hash = "b4a05a52e66b8801b103553129b214da4f36a1e3f03b2628f72f3804a6bc1445"
 metafile = true
 
 [[files]]
