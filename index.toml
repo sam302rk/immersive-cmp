@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/static.yml"
-hash = "3a8ba0f602fe703ffa54018a3a2b36d96811026854d0f3710d0f12172ab8b088"
-
-[[files]]
 file = "config/immersiverailroading.cfg"
-hash = "96240497be63e83f017effc207fad2c6db4b723db55f1c9059772d1fb37d6a5c"
+hash = "3872ef0a8c161db59b7c262189083a9cc6c06f683daebd777c4442e849013960"
 
 [[files]]
 file = "config/landofsignals.cfg"
@@ -35,6 +31,11 @@ hash = "2da7488ba2d5ce4d38006c70c100a950efbe7d4b293675b64e2ca0235e409586"
 [[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
 
 [[files]]
