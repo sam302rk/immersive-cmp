@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/static.yml"
+hash = "3a8ba0f602fe703ffa54018a3a2b36d96811026854d0f3710d0f12172ab8b088"
+
+[[files]]
+file = "config/immersiverailroading.cfg"
+hash = "96240497be63e83f017effc207fad2c6db4b723db55f1c9059772d1fb37d6a5c"
+
+[[files]]
+file = "config/landofsignals.cfg"
+hash = "76304d5b92ece295c8e383f5d55933bc32c938b304e0d00314fa79aee4384802"
+
+[[files]]
 file = "config/landofsignals/diekleinensignale.zip"
 hash = "429fcddbfe75203df0527548c9ef48f76a3a78ef44177fdf84c980d2b94eafb7"
 
@@ -15,6 +27,10 @@ hash = "945f6bf3f95c7572c2349cbb8adab4d5401b37bdd0e5bd0b66be7238d844ca00"
 [[files]]
 file = "mods/LandOfSignals-1.12.2-forge-1.1.0.jar"
 hash = "240f4e375de0c7c7a21bdf6e56c3d4303d43d2300b2d0ac48d70b8b7f697c6a7"
+
+[[files]]
+file = "mods/OptiFine_1.12.2_HD_U_E3_MOD.jar"
+hash = "2da7488ba2d5ce4d38006c70c100a950efbe7d4b293675b64e2ca0235e409586"
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
