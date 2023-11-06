@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/landofsignals/diekleinensignale.zip"
+hash = "429fcddbfe75203df0527548c9ef48f76a3a78ef44177fdf84c980d2b94eafb7"
+
+[[files]]
+file = "config/landofsignals/hv_signalpack.zip"
+hash = "1438a86e0185e06264f187e2e2e1a2d46391f3ee68026a1897024aa6115fe04b"
+
+[[files]]
+file = "config/landofsignals/ks_signalpack.zip"
+hash = "945f6bf3f95c7572c2349cbb8adab4d5401b37bdd0e5bd0b66be7238d844ca00"
+
+[[files]]
+file = "mods/OptiFine_1.12.2_HD_U_G5_MOD.jar"
+hash = "717351d0b1eb8f5d1a8453809a5e853566634eb9aeefa852cc68239c1d2bac4b"
+
+[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
 metafile = true
@@ -13,11 +29,6 @@ metafile = true
 [[files]]
 file = "mods/landofsignals.pw.toml"
 hash = "db7152fa0ee1152cdc83f7bfb423a7b4a65819cf290f1ed2be838554926fc88c"
-metafile = true
-
-[[files]]
-file = "mods/optifine.pw.toml"
-hash = "b342a00e0189fc4370c0a62c35ec57023f7f549e44178034f166060a2a70931f"
 metafile = true
 
 [[files]]
