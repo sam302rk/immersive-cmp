@@ -1,0 +1,36 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
+metafile = true
+
+[[files]]
+file = "mods/immersive-railroading.pw.toml"
+hash = "8142b434d15baa49253cf4ca09ee26bee07ac0bce52ae4211979bb1f06257590"
+metafile = true
+
+[[files]]
+file = "mods/landofsignals.pw.toml"
+hash = "db7152fa0ee1152cdc83f7bfb423a7b4a65819cf290f1ed2be838554926fc88c"
+metafile = true
+
+[[files]]
+file = "mods/optifine.pw.toml"
+hash = "b342a00e0189fc4370c0a62c35ec57023f7f549e44178034f166060a2a70931f"
+metafile = true
+
+[[files]]
+file = "mods/track-api.pw.toml"
+hash = "45a91b2fd9cd1424357aab07b60395c23df4f494e943a6489ef89808845b4f27"
+metafile = true
+
+[[files]]
+file = "mods/universal-mod-core.pw.toml"
+hash = "2c83c967888d9c46edb2e1191bc5c9e7760a4b290bd7c7dd346a923dd7b63735"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "d10c418f02190951aa9909a46005af48ab9aa214ed356337c432fd6f3cd3b1ab"
+metafile = true
