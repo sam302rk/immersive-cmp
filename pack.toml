@@ -1,0 +1,13 @@
+name = "ImmersiveCMP"
+author = "Sam302rk & Sangelo_"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bb2317f982dd03fd8cb038b4c4fe7755da5a7b39c885552ccd9f3dff2a6027fd"
+
+[versions]
+minecraft = "1.14.4"
+quilt = "0.22.0-beta.1"
