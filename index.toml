@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/immersiverailroading.cfg"
-hash = "3872ef0a8c161db59b7c262189083a9cc6c06f683daebd777c4442e849013960"
+hash = "c7993f743303f7ceef303c01d41d5c66d3d73ce5c60e567783d17408294a7558"
 
 [[files]]
 file = "config/landofsignals.cfg"
-hash = "76304d5b92ece295c8e383f5d55933bc32c938b304e0d00314fa79aee4384802"
+hash = "50f6c28a089a798a3cd7c790f9f71c89fbb64b793c4b807b86334416920b3cfb"
 
 [[files]]
 file = "config/landofsignals/diekleinensignale.zip"
