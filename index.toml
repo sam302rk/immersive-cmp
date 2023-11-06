@@ -17,10 +17,6 @@ file = "mods/LandOfSignals-1.12.2-forge-1.1.0.jar"
 hash = "240f4e375de0c7c7a21bdf6e56c3d4303d43d2300b2d0ac48d70b8b7f697c6a7"
 
 [[files]]
-file = "mods/OptiFine_1.12.2_HD_U_G5_MOD.jar"
-hash = "717351d0b1eb8f5d1a8453809a5e853566634eb9aeefa852cc68239c1d2bac4b"
-
-[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "ebb08e770587df2f24474edcedde20842993ab136cb458cd99ceda650e4b9acf"
 metafile = true
