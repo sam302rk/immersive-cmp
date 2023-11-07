@@ -77,3 +77,7 @@ metafile = true
 file = "resourcepacks/voxel-trains-ir.pw.toml"
 hash = "368b30d7b1961b9912154b73a45fbcd7000c8eed9186e5e239b1ca3b85b521bb"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "fff4fb91d5707bf1c790d49fe37b5ba1c6a177a17c9f06dd9475b3e1052862e7"
